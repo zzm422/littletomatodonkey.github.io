@@ -68,7 +68,7 @@ ga_domain: littletomatodonkey
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "test"
+sidebar-about-description: "love me or hate me"
 sidebar-avatar: /img/home-self.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
