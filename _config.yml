@@ -59,9 +59,9 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 71a33fdda2f6b91599433a23a88613e4
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-119539040-1'            # Format: UA-xxxxxx-xx
 ga_domain: littletomatodonkey
 
 
@@ -82,8 +82,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Bar",
-        href: "#"
+        title: "stranger",
+        href: "https://blog.csdn.net/u012526003"
     },{
         title: "Example Friends",
         href: "#"
