@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2018-06-03-instance segmentation之无proposal的聚类"
+title:      "instance segmentation之FCN"
 subtitle:   "Cluster for Proposal-Free"
 date:       2018-06-03 20:00:00
 author:     "donkey"
