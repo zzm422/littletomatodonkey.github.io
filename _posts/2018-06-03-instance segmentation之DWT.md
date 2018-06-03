@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "instance segmentation"
+title:      "instance segmentation之DWT"
 subtitle:   "deep-watershed transform"
 date:       2018-06-03 10:00:00
 author:     "donkey"
